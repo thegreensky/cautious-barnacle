@@ -7,10 +7,7 @@ ul {
 list-style-type:none;
 padding;0:
 overflow:hidden;
-margin:0;
-position:fixed;
-top:0;
-width:100%;
+margin:0:
 }
 li {
 float:left;
@@ -21,6 +18,8 @@ color:white;
 text-align:center;
 padding:14px 16px;
 text-decoration:none;
+background-color:green;
+border-right:1px solid black;
 }
 li a:hover {
 background-color:red;
@@ -28,3 +27,4 @@ background-color:red;
 .active {
 background-color:blue;
 }
+
