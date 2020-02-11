@@ -1,5 +1,6 @@
 body {
 background-colour:#cc00ff;
+font-family:(Times-New-Roman),Helvitica, serif;
 }
 /*Nav Bar styling*/
 ul {
@@ -7,6 +8,9 @@ list-style-type:none;
 padding;0:
 overflow:hidden;
 margin:0:
+position:fixed;
+top:0;
+width:100%;
 }
 li {
 float:left;
