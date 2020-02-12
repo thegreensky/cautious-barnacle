@@ -26,3 +26,6 @@ font-family:(Times-New-Roman);
 background-image:url(paper.gif);
 background:fixed;
 }
+.active {
+background-color:red;
+}
