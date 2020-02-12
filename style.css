@@ -28,6 +28,6 @@ background-color:#a6a6a6;
 .active {
 background-color:red;
 }
-h1 h2 h3 {
+h1,h2,h3 {
 text-align:center;
 }
